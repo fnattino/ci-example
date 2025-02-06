@@ -6,4 +6,4 @@ def test_power():
 
 
 def test_root():
-    assert root(4, 2) == 3
+    assert root(4, 2) == 2
